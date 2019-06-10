@@ -8,6 +8,7 @@ package com.duan.test;
 public class Test {
     public static void main(String[] args) {
         System.out.println("aaaaaaaaaaaaaaaa");
+        System.out.println("bbbbbbbbbbbbbbbbbbbbbbb");
     }
     public void test(){
         System.out.println("22222222222222");
